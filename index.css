@@ -18,7 +18,10 @@ html, body {
 .custom-navbar {
   background-color: #0A192F;
 }
-
+.nav-link{
+  font-size: 20px;
+  font-family: "Roboto";
+}
 /* Hero Section */
 .hero-section {
   display: flex;
